@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Blockchain<br>👯 I’m looking to collaborate on React or Vite projects<br>🌱 I’m currently learning Solidarity<br>💬 Ask me about my projects<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
